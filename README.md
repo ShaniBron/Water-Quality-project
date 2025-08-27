@@ -1,2 +1,2 @@
-# Water Quality project
+water-quality-analysis
  
